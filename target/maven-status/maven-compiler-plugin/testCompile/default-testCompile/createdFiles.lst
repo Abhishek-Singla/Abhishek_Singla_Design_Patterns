@@ -1,0 +1,6 @@
+org\example\behavioral\ProxyPatternTest.class
+org\example\behavioral\AdapterPatternTest.class
+org\example\structural\IteratorPatternTest.class
+org\example\creational\FactoryMethodPatternTest.class
+org\example\structural\TemplatePatternTest.class
+org\example\creational\PrototypeDesignPatternTest.class
